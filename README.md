@@ -1,0 +1,1 @@
+This is an all in one E Waste management  system. 
